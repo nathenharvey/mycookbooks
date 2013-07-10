@@ -6,7 +6,7 @@ driver_config:
 platforms:
   - name: ubuntu-12.04
     driver_config:
-      base_container: ubuntu
+      base_container: CN
       username: ubuntu
       password: ubuntu
 
